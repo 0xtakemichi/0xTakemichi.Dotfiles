@@ -6,6 +6,7 @@ Este repositorio contiene mis configuraciones personales (dotfiles) para diferen
 
 - `ghostty/`: Configuraciones para el terminal Ghostty
 - `surfingkeys/`: Configuraciones para SurfingKeys
+- `powershell/`: Temas para la Powershell
 
 ## Descripción
 
